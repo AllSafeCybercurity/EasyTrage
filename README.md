@@ -1,4 +1,4 @@
-# EasyTrage
+# EasyTrage TEST
 ### Cryptocurrency Arbitrage bot/helper written in MERN by Mike Hamilton, Kevin Lee, Vikram Melkote, Christopher Kong, and Abdul Mohamed
 
 ## About
